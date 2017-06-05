@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">network</string>
+    <string name="error_format">錯誤碼 %1$s:%2$s</string>
+</resources>

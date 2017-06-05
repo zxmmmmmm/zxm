@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<errors>
+    <error
+        key="K100"
+        value="網路異常,無法解析&quot;%s&quot;" />
+    <error
+        key="K101"
+        value="連接逾時,無法連接&quot;%s&quot;" />
+
+    <error
+        key="403"
+        value="使用者未登入或登入session expired" />
+    <error
+        key="404"
+        value="url 不存在" />
+    <error
+        key="500"
+        value="內部伺服器錯誤" />
+    <error
+        key="503"
+        value="伺服器暫時無法提供服務" />
+</errors>
