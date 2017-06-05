@@ -12,7 +12,7 @@ import static org.xmlpull.v1.XmlPullParser.END_DOCUMENT;
 import static org.xmlpull.v1.XmlPullParser.START_TAG;
 
 /**
- * Created by admin on 2017/5/4.
+ * Created by zxm on 2017/5/4.
  */
 
 public class XMLMap {
