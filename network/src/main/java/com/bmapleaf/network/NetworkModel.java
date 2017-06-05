@@ -8,7 +8,7 @@ import okhttp3.ResponseBody;
 import okhttp3.logging.HttpLoggingInterceptor;
 
 /**
- * Created by ZhangMing on 2016/11/21.
+ * Created by zxm on 2016/11/21.
  */
 
 public class NetworkModel implements INetworkModel, HttpLoggingInterceptor.Logger, NetworkInterceptor.Logger {

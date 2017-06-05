@@ -1,7 +1,7 @@
 package com.bmapleaf.network;
 
 /**
- * Created by ZhangMing on 2017/06/05.
+ * Created by zxm on 2017/06/05.
  */
 
 public interface IMyPresenter {

@@ -5,7 +5,7 @@ import android.content.Context;
 import okhttp3.ResponseBody;
 
 /**
- * Created by ZhangMing on 2017/06/05.
+ * Created by zxm on 2017/06/05.
  */
 
 public class MyPresenter extends BasePresenter<IMyView> implements IMyPresenter {

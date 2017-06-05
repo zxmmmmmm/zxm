@@ -13,7 +13,7 @@ import retrofit2.http.Url;
 import rx.Observable;
 
 /**
- * Created by ZhangMing on 2017/06/05.
+ * Created by zxm on 2017/06/05.
  */
 
 interface INetworkService {

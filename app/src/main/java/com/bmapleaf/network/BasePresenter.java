@@ -7,7 +7,7 @@ import org.xmlpull.v1.XmlPullParserException;
 import java.io.IOException;
 
 /**
- * Created by ZhangMing on 2016/11/21.
+ * Created by zxm on 2016/11/21.
  */
 
 public class BasePresenter<T extends IView> implements IBasePresenter {

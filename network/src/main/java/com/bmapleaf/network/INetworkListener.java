@@ -1,7 +1,7 @@
 package com.bmapleaf.network;
 
 /**
- * Created by ZhangMing on 2016/11/18.
+ * Created by zxm on 2016/11/18.
  */
 
 public interface INetworkListener<T> {

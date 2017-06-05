@@ -3,7 +3,7 @@ package com.bmapleaf.network;
 import okhttp3.ResponseBody;
 
 /**
- * Created by ZhangMing on 2016/11/21.
+ * Created by zxm on 2016/11/21.
  */
 
 public interface INetworkModel {

@@ -15,7 +15,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by ZhangMing on 2017/05/04.
+ * Created by zxm on 2017/05/04.
  */
 
 class NetworkController<T> extends Subscriber<T> implements INetworkController<T> {

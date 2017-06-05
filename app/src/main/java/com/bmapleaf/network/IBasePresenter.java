@@ -1,7 +1,7 @@
 package com.bmapleaf.network;
 
 /**
- * Created by ZhangMing on 2017/05/04.
+ * Created by zxm on 2017/05/04.
  */
 
 public interface IBasePresenter {
